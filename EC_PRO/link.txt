@@ -1,1 +1,0 @@
-https://tech.endeepak.com/blog/2016/01/02/simple-obstacle-avoiding-robot-using-arduino/
